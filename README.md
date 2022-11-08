@@ -2,7 +2,7 @@
 Ping Koneksi internet ini berguna untuk menstabilkan koneksi internet pada system openwrt
 
 # Cara Penggunaan
-1. Paste command dibawah ini untuk menginstall script jam.sh
+1. Paste command dibawah ini untuk menginstall script ``ping.sh``
    ```
    wget --no-check-certificate "https://raw.githubusercontent.com/alkhanet26/ping-koneksi/main/ping.sh" -O /sbin/ping.sh && chmod +x /sbin/ping.sh
    ```
