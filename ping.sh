@@ -11,5 +11,3 @@ echo -e "ping.sh : time = $pms"
 logger "ping.sh : time = $pms"
 #
 rm /tmp/cping
-echo -e "ping.sh : Finish ping koneksi"
-logger "ping.sh : Finish ping koneksi"
